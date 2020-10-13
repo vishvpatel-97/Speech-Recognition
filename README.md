@@ -16,7 +16,7 @@ This entire project is made with the purpose of understanding concepts of **Spee
 ## Python libraries Used:
 
 - pafy
-- VLC
+- vlc
 - BeautifulSoup
 
 
