@@ -13,3 +13,12 @@ This entire project is made with the purpose of understanding concepts of **Spee
 - After that it will select one video from the youtube page automatically thereby playing it in VLC media player available on your computer. 
 - In a nutshell, not only youtube.com will be opened in a separate web browser automatically but also a video will be search on youtube and played in a media player automatically based on voice command given.
 
+## Python libraries Used:
+
+- pafy
+- VLC
+- BeautifulSoup
+
+
+
+
